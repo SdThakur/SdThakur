@@ -69,7 +69,7 @@ I like understanding how software works under the hood. That shows up in my proj
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SdThakur&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Satya's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SdThakur&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SdThakur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
