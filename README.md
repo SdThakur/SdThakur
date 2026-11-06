@@ -3,7 +3,7 @@
 <p align="center">
   <b>Computer Science senior at UMBC (graduating December 2026)</b><br>
   I build backend services and systems-level software, from FastAPI and PostgreSQL to Linux kernel modules.<br><br>
-  <b>Open to full-time new-grad Software Engineer roles</b> · US Citizen · Maryland (open to remote)
+  <b>Open to full-time new-grad Software Engineer roles</b> · US Citizen · Maryland 
 </p>
 
 <p align="center">
